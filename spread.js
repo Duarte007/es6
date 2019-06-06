@@ -1,5 +1,3 @@
-// ES6
-
 /* Spread -> [...array] */
 
 const spreadArray = function () {
